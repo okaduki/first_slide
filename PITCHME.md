@@ -16,4 +16,4 @@
 # Math
 
 * aaa $$ \alpha x^2 + \beta x + \gamma = 0 $$ bbb
-* poipoi
+* poipoi \( \mu.\ X(x) = X(x+1) \) inline
