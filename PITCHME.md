@@ -15,5 +15,5 @@
 
 # Math
 
-* $$ \alpha x^2 + \beta x + \gamma = 0 $$
-  * hoge
+* aaa $$ \alpha x^2 + \beta x + \gamma = 0 $$ bbb
+* poipoi
